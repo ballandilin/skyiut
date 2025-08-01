@@ -1,0 +1,15 @@
+Originaires de la province d’Elswey, 
+ils sont intelligents, vifs et agiles. 
+Leur capacité à agir en toute discrétion fait d’eux d’excellents voleurs.
+Tous les Khajiits voient dans la nuit et 
+se servent de leurs griffes pour attaquer.
+
+Visibilité nocturne;
+Attaque sans arme (avec ses griffes).
+
+Alchime : +5
+Archerie : +5
+Dévérouillage (crochetage) : +5
+Vol à la tire : +5
+Furtivité : +10
+Arme à une main : +5

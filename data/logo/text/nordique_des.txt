@@ -1,0 +1,16 @@
+Habitants de Bordeciel, 
+ils sont grands et ont les cheveux blonds.
+Aussi forts qu’intrépides, 
+les Nordiques sont célèbres pour leur résistance au froid et
+leur amour inné du combat.
+Ils peuvent se servir du Cri de guerre pour faire fuir leurs adversaires.
+
+50% de résistance au froid;
+Cri de guerre ( utilisable une fois par jour, fait fuir la cible pendant 30 secondes).
+
+Maniement du bouclier : +5
+Armure légère : +5
+Forgeage : +5
+Éloquence : +5
+Arme une main : +5
+Arme deux mains : +10

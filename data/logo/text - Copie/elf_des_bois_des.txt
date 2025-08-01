@@ -1,0 +1,17 @@
+Habitants des forêts occidentales de Val-Boisé, 
+également appelés « Bosmers ». Les Elfes des bois 
+font de bons éclaireurs et de bons voleur et 
+il n’y a pas meilleur archers dans tout Tamriel. 
+Ils montrent une résistance particulière aux poisons et 
+aux maladies et peuvent ordonner aux animaux de se battre pour eux.
+
+50% de résistance au poison;
+50% de résistance aux maladies;
+Commande les animaux.
+
+Alchimie : +5
+Archerie : +10
+Armure légère : +5
+Déverrouillage (crochetage) : +5
+Vol à la tire : +5
+Furtivité : +5

@@ -1,0 +1,19 @@
+1. casque en fer 
+2. plastron en fer 
+3. gants en fer 
+4. bottes en fer 
+
+5. casque en acier 
+6. plastron en acier 
+7. gants en acier 
+8. bottes en acier 
+
+9. casque en griffe de DovahBear 
+10. plastron en griffe de DovahBear 
+11. gants en griffe de DovahBear 
+12. bottes en griffe de DovahBear 
+
+13. magasin d'arme
+14. quitter
+
+				Une bottes achetée la deuxième payante !!

@@ -1,0 +1,17 @@
+1. épée en fer
+2. masse en fer
+3. hache en fer
+4. épée à deux main en fer
+
+5. épée en acier
+6. masse en acier
+7. hache en acier
+8. épée à deux main en acier
+
+9. épée en griffe de DovahBear
+10. masse en griffe de DovahBear
+11. hache en griffe de DovahBear
+12. épée à deux main en griffe de DovahBear
+
+13. magasin d'armure
+14. quitter

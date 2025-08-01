@@ -1,0 +1,16 @@
+Habitants des monts de Wrothgarian et la Queue de Dragon,
+les forgerons orques sont très célèbres pour la qualité de leurs créations.
+Les troupes orques équipées d’armures lourdes
+comptent parmi les meilleures de l’Empire et elles sont redoutables
+lorsqu’elles laissent éclater leur colère de berseker.
+
+Rage du berseker (utilisable une fois par jour, 
+augmente l’attaque de 100% et diminue les dégâts reçus de 50%.
+En contrepartie, la vision devient un peu floue).
+
+Maniement du bouclier : +5
+Enchantement : +5
+Armure lourde : +10
+Forge, joaillerie : +5
+Arme une main : +5
+Arme deux mains : +5

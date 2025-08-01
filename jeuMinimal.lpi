@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <General>
+      <Flags>
+        <MainUnitHasCreateFormStatements Value="False"/>
+        <MainUnitHasTitleStatement Value="False"/>
+        <MainUnitHasScaledStatement Value="False"/>
+      </Flags>
+      <SessionStorage Value="InProjectDir"/>
+      <MainUnit Value="0"/>
+      <Title Value="NotreJeuSuperBien"/>
+      <UseAppBundle Value="False"/>
+      <ResourceType Value="res"/>
+    </General>
+    <BuildModes Count="1">
+      <Item1 Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+      <UseFileFilters Value="True"/>
+    </PublishOptions>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0"/>
+    </RunParams>
+    <RequiredPackages Count="2">
+      <Item1>
+        <PackageName Value="LazUtils"/>
+      </Item1>
+      <Item2>
+        <PackageName Value="LCL"/>
+      </Item2>
+    </RequiredPackages>
+    <Units Count="15">
+      <Unit0>
+        <Filename Value="NotreJeuSuperBien.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="jeuAvance2"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unitperso.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitPerso"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="unitanim.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitAnim"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="GestionEcran.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="untiopenglessai.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="unitinterface.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitInterface"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="unitacceuilanim.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitAcceuilAnim"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="unitmap.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="unithistoire.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitHistoire"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="unitmenuinit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitMenuInit"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="unitcreationperso.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitCreationPerso"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="unitinventaire.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitInventaire"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="unitmagasin.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitMagasin"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="unitcombat.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitCombat"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="quetes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Quetes"/>
+      </Unit14>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <Target>
+      <Filename Value="NotreJeuSuperBien"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+      <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+    </SearchPaths>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions Count="3">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+    </Exceptions>
+  </Debugging>
+</CONFIG>

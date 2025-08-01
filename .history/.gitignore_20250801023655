@@ -1,0 +1,105 @@
+# Gitignore pour projet Free Pascal/Lazarus
+
+# Exécutables
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Fichiers objets et compilés
+*.o
+*.obj
+*.ppu
+*.compiled
+*.a
+*.lib
+
+# Fichiers de débogage
+*.dbg
+*.dcu
+
+# Fichiers de session Lazarus
+*.lps
+*.lpr.bak
+*.pas.bak
+*.lfm.bak
+
+# Dossiers de compilation
+lib/
+backup/
+
+# Fichiers temporaires et de cache
+*.tmp
+*.temp
+*.~*
+~*
+
+# Fichiers de configuration IDE
+*.cfg
+*.local
+
+# Fichiers de log
+*.log
+
+# Fichiers système Windows
+Thumbs.db
+Desktop.ini
+*.lnk
+
+# Fichiers système macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Fichiers système Linux
+*~
+.directory
+
+# Dossiers temporaires
+temp/
+tmp/
+
+# Fichiers de sauvegarde automatiques
+*.bak
+*.backup
+*.orig
+
+# Fichiers de documentation générés
+doc/
+
+# Fichiers de données sensibles (garder save.txt pour l'exemple)
+# save.txt
+
+# Fichiers d'environnement
+.env
+.env.local
+.env.production
+
+# Fichiers de test temporaires
+test_output/
+*.test
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Fichiers de configuration spécifiques à l'utilisateur
+*.user
+*.suo
+*.userprefs
+
+# Dossier de packages (si utilisé)
+packages/
+
+# Fichiers de ressources compilées
+*.res
+*.rc
+
+# Fichiers de mise en forme
+*.fmt
+
+# Logs de compilation
+build.log
+compile.log

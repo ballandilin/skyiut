@@ -1,0 +1,19 @@
+Également appelés « Altmers » dans l’Archipel
+de l’automne dont ils sont originaires,
+les Hauts Elfes sont passés maîtres en arts des arcanes,
+plus que tout autre race.
+Ils utilisent leur Pouvoir régalien pour
+régénérer rapidement leur magie.
+
++50 Magicka (nom anglais de la jauge de magie);
+Pouvoir régalien (régénère la magie plus rapidement).
+
+Altération : +5
+Invocation : +5
+Destruction : +5
+Enchantement : +5
+Illusion : +10
+Magie de soin : +5
+
+Le Haut-elfe commence avec un sort lui permettant d’ordonner aux créatures
+jusqu’au niveau 6 d’attaquer qui que ce soit à proximité.

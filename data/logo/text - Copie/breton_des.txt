@@ -1,0 +1,17 @@
+Outre la grande maîtrise des sorts inhérente à
+leur race, même les plus humbles Brétons de Haute-Roche
+peuvent se vanter de leur résistance élevée à la magie.
+Ils utilisent le pouvoir Peau de dragon pour se protéger
+des sorts.
+
+25% de résistance a la magie;
+Peau de dragon (absorbe 50% de magie provenant d’une attaque magique ennemie pendant 60 secondes).
+
+Alchimie : +5
+Altération : +5
+Invocation : +10
+Illusion :+5
+Magie de soin : +5
+Éloquence : +5
+
+Le Bréton commence aussi avec un sort lui permettant d’invoquer un familier pendant 60 secondes.

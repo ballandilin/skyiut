@@ -1,0 +1,17 @@
+Cette race reptilienne,
+bien adaptée aux dangereux marais de sa région d'origine,
+a développé une résistance naturelle aux maladies et
+est capable de respirer sous l'eau.
+La bénédiction du Hist lui permet de
+régénérer rapidement sa santé.
+
+50% de résistance aux maladies;
+Respiration infinie sous l'eau;
+Bénédiction de Hist (régénération plus rapide de la santé).
+
+Altération : +5
+Armure légère : +5
+crochetage : +10
+Magie de soin : +5
+Vol à la tire : +5
+Furtivité : +5

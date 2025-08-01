@@ -1,0 +1,17 @@
+Également appelés « Dunmers » dans leur région 
+d’origine de Morrowind, les Elfes noirs sont célèbres
+ pour leurs talents de dissimulation et de magie. 
+Ils sont naturellement résistants au feu et 
+se servent de l’Ire ancestrale pour s’entourer de feu.
+
+50% de résistance au feu;
+Ire ancestrale (durant 60 secondes le lanceur s’entoure de flammes qui infligent 8 dommages par seconde).
+
+Alchimie : +5
+Altération : +5
+Destruction : +10
+Illusion : +5
+Armure légère : +5
+Furtivité : +5
+
+L’Elfe noir commence avec un sort d’éclair infligeant 8 points de dommages par seconde.

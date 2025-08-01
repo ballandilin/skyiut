@@ -1,0 +1,14 @@
+Meilleurs guerriers de Tamriel,
+les Rougegardes de Lenclume bénéficient
+d’une forte constitution et d’une résistance naturelle au poison.
+Ils se servent de leur Poussée d’adrénaline au combat.
+
+50% de résistance au poison;
+Poussée d’adrénaline (la vigueur se régénère 10 fois plus rapidement durant 60 secondes).
+
+Altération : +5
+Maniement du bouclier : +5
+Archerie : +5
+Destruction : +5
+Forgeage : +5
+Arme une main : +10

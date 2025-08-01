@@ -1,0 +1,18 @@
+Natifs de Cyrodiil, 
+ce sont souvent d’excellents diplomates et commerçants
+, à la fois doués pour le combat et la magie. 
+Ils ont un sens de l’argent et des affaires inégalés et
+s’appuient sur la Voix de l’empereur pour calmer leurs ennemis.
+
+Voix de l’empereur (augmente l’éloquence en général, 
+c’est à dire les talents de persuasion, l’influence…);
+Chance Impériale (en relation avec la réputation de diplomates, 
+commerçants des Impériaux. Ce don leur permet d’obtenir plus d’argent,
+de faire des affaires plus intéressantes).
+
+Maniement du bouclier : +5
+Destruction : +5
+Enchantement : +5
+Armure lourde : +5
+Magie de soin : +10
+Arme une main :+5
